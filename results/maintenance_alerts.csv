@@ -1,0 +1,101 @@
+unit_number,predicted_RUL,alert,status
+1,122.9,False,🟢 OK
+2,121.72,False,🟢 OK
+3,45.39,False,🟢 OK
+4,84.03,False,🟢 OK
+5,101.92,False,🟢 OK
+6,104.2,False,🟢 OK
+7,99.97,False,🟢 OK
+8,105.61,False,🟢 OK
+9,110.96,False,🟢 OK
+10,109.73,False,🟢 OK
+11,79.2,False,🟢 OK
+12,84.38,False,🟢 OK
+13,99.54,False,🟢 OK
+14,92.68,False,🟢 OK
+15,112.3,False,🟢 OK
+16,109.54,False,🟢 OK
+17,54.95,False,🟢 OK
+18,68.75,False,🟢 OK
+19,116.34,False,🟢 OK
+20,20.32,True,🔴 MAINTENANCE NEEDED
+21,70.69,False,🟢 OK
+22,121.5,False,🟢 OK
+23,123.72,False,🟢 OK
+24,19.99,True,🔴 MAINTENANCE NEEDED
+25,119.87,False,🟢 OK
+26,114.1,False,🟢 OK
+27,113.74,False,🟢 OK
+28,99.89,False,🟢 OK
+29,97.6,False,🟢 OK
+30,92.33,False,🟢 OK
+31,11.57,True,🔴 MAINTENANCE NEEDED
+32,47.84,False,🟢 OK
+33,111.13,False,🟢 OK
+34,4.47,True,🔴 MAINTENANCE NEEDED
+35,9.33,True,🔴 MAINTENANCE NEEDED
+36,20.22,True,🔴 MAINTENANCE NEEDED
+37,70.08,False,🟢 OK
+38,56.49,False,🟢 OK
+39,123.0,False,🟢 OK
+40,36.05,False,🟢 OK
+41,45.95,False,🟢 OK
+42,19.45,True,🔴 MAINTENANCE NEEDED
+43,93.26,False,🟢 OK
+44,103.7,False,🟢 OK
+45,72.13,False,🟢 OK
+46,43.91,False,🟢 OK
+47,96.14,False,🟢 OK
+48,116.02,False,🟢 OK
+49,22.4,True,🔴 MAINTENANCE NEEDED
+50,106.58,False,🟢 OK
+51,110.93,False,🟢 OK
+52,36.38,False,🟢 OK
+53,38.84,False,🟢 OK
+54,116.77,False,🟢 OK
+55,115.51,False,🟢 OK
+56,11.72,True,🔴 MAINTENANCE NEEDED
+57,90.79,False,🟢 OK
+58,44.75,False,🟢 OK
+59,121.54,False,🟢 OK
+60,95.18,False,🟢 OK
+61,44.03,False,🟢 OK
+62,50.12,False,🟢 OK
+63,69.08,False,🟢 OK
+64,38.84,False,🟢 OK
+65,124.57,False,🟢 OK
+66,16.01,True,🔴 MAINTENANCE NEEDED
+67,102.79,False,🟢 OK
+68,12.32,True,🔴 MAINTENANCE NEEDED
+69,116.64,False,🟢 OK
+70,106.65,False,🟢 OK
+71,112.6,False,🟢 OK
+72,82.5,False,🟢 OK
+73,112.17,False,🟢 OK
+74,98.39,False,🟢 OK
+75,110.33,False,🟢 OK
+76,11.54,True,🔴 MAINTENANCE NEEDED
+77,40.46,False,🟢 OK
+78,124.73,False,🟢 OK
+79,122.77,False,🟢 OK
+80,81.91,False,🟢 OK
+81,6.89,True,🔴 MAINTENANCE NEEDED
+82,12.77,True,🔴 MAINTENANCE NEEDED
+83,115.99,False,🟢 OK
+84,58.61,False,🟢 OK
+85,107.94,False,🟢 OK
+86,100.37,False,🟢 OK
+87,115.07,False,🟢 OK
+88,113.42,False,🟢 OK
+89,100.97,False,🟢 OK
+90,22.67,True,🔴 MAINTENANCE NEEDED
+91,19.34,True,🔴 MAINTENANCE NEEDED
+92,15.73,True,🔴 MAINTENANCE NEEDED
+93,38.33,False,🟢 OK
+94,53.4,False,🟢 OK
+95,112.46,False,🟢 OK
+96,122.79,False,🟢 OK
+97,95.07,False,🟢 OK
+98,85.47,False,🟢 OK
+99,121.42,False,🟢 OK
+100,18.9,True,🔴 MAINTENANCE NEEDED
